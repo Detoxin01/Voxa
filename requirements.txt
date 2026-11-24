@@ -1,0 +1,9 @@
+faster-whisper
+sounddevice
+numpy
+pynput
+pystray
+pillow
+# NVIDIA GPU support (CUDA 12 runtime libs for CTranslate2) - harmless if unused
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
